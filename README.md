@@ -2,6 +2,8 @@
 
 Exploratory Python scripts for multilayer OLED optics, optical local density of states (LDOS), thickness sweeps, and spectral/color calculations. The stated goal is to investigate outcoupling and wavelength-dependent behavior; the models require physical validation before quantitative design use.
 
+**Mongelli Labs:** [Scientific consulting, technical research, and scientific software](https://mongellilabs.wordpress.com/).
+
 ## Functions and engineering applications
 
 | Source / interface | Observed function | Inferred application |
